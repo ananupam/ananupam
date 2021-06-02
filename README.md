@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananupam
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Data Visualization
 - 📫 How to reach me : You can reach me on LinkedIn @anjalianupam or mail me at anjalianupam23@gmail.com
 
 <!---
