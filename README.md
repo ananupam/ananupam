@@ -24,10 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ananupam&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananupam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=aanupam23)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
----
 [![](https://visitcount.itsvg.in/api?id=ananupam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->generator/master/src/images/icons/Social/twitter.svg" alt="watapaon" height="30" width="40" /></a>
