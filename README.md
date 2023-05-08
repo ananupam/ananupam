@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anjali</h1>
-# An engineer who is interested in the intersection of business and technology, and loves to dig insights hidden behind a large amount of data.
+
 
 
 
