@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananupam&label=Profile%20views&color=0e75b6&style=flat" alt="ananupam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananupam" alt="ananupam" /></a> </p>
+
 
 # 💫 About Me:
 🔭 I'm currently working as an SDE intern @Autodesk<br>🌱 I'm currently learning Infrastructure as code using Terraform<br>👯 I'm looking to collaborate on Cyster<br>📝 I regularly write articles on https://medium.com/@anjalianupam23<br>💬 Ask me about Frontend, Data Science and IaS<br>📫 How to reach me: email- anjalianupam10@gmail.com<br>🤝 Connect with me on Linkedin: https://www.linkedin.com/in/anjalianupam/<br>⚡ Fun fact I love black coffee and I believe in Poirot supremacy<br><br>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananupam" alt="ananupam" /></a> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anjalianupam) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anjalianupam23) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aanupam23) 
