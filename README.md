@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anjali</h1>
+<h1 align="center">Hi, I'm Anjali</h1>
 
 
 
@@ -8,12 +8,19 @@
 
 
 
-# 💫 About Me:
-🔭 I'm currently working as an SDE intern @Autodesk<br>🌱 I'm currently learning Infrastructure as code using Terraform<br>👯 I'm looking to collaborate on Cyster<br>📝 I regularly write articles on https://medium.com/@anjalianupam23<br>💬 Ask me about Frontend, Data Science and IaS<br>📫 How to reach me: email- anjalianupam10@gmail.com<br>🤝 Connect with me on Linkedin: https://www.linkedin.com/in/anjalianupam/<br>⚡ Fun fact I love black coffee and I believe in Poirot supremacy<br><br>
+#  About Me:
+- I'm currently working as an SDE intern @Autodesk<br>
+- I'm currently learning Infrastructure as code using Terraform<br>
+- I'm looking to collaborate on Cyster<br>
+- I regularly write articles on https://medium.com/@anjalianupam23<br>
+- Ask me about Frontend, Data Science and IaS<br>
+- How to reach me: email- anjalianupam10@gmail.com<br>
+- Connect with me on Linkedin: https://www.linkedin.com/in/anjalianupam/<br>
 
 
 
-## 🌐 Socials:
+
+## Connect with me on:
 <a href="https://linkedin.com/in/anjalianupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalianupam" height="30" width="40" /></a>
 <a href="https://medium.com/@anjalianupam23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anjalianupam23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anjalianupam23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjalianupam23" height="30" width="40" /></a>
